@@ -1,4 +1,4 @@
-# Credit_Card_Financial_Dashboard
+# Credit_Card_Finance_Dashboard
 Dashboards made using Power BI
 
 Objective:
